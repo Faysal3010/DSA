@@ -65,7 +65,7 @@ def say_hello(name):
 
 say_hello("Faysal")
 
-hhhhhhh
+
 ---
 
 ## 2. Linked List
